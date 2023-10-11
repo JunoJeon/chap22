@@ -16,5 +16,9 @@
   "dependencies": {
     "es7-sleep": "^1.0.0",
     "sprintf-js": "^1.1.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
   }
 }
